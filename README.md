@@ -1,15 +1,16 @@
 # Marco Lecci
 
-**Mathematician · Data Analyst · Software Engineer**
+**Mathematician · Integration Engineer**
 Milan, Italy
 
-Mathematician with a strong theoretical background and hands-on experience in data analysis, machine learning, and full-stack development. Passionate about science, AI, and building real-world applications.
+I'm a mathematician with a strong theoretical background and some experience in data analysis, machine learning, data science. Passionate about science, AI, and building real-world applications.
 
 ---
 
 ## Experience
 
 - **Integration Engineer** — SS&C Technologies *(from June 2026)*
+  ...work in progress...
 - **Data Analyst** — Ground Control Holding *(since October 2024)*
   Data analysis for the Prometheus reactor project: cleaning, modeling, pipeline automation, and Streamlit dashboards.
 
@@ -17,7 +18,7 @@ Mathematician with a strong theoretical background and hands-on experience in da
 
 ## Education
 
-- **MSc Mathematics** (General) — University of Pisa, 108/110
+- **MSc Mathematics** (General) — University of Pisa, 
   *Thesis: [Obstacle Problem and Regularity of the Free Boundary](thesis/Tesi_Magistrale_lecciMarco.pdf)*
   Calculus of Variations, Differential Geometry, Stochastic Calculus, PDEs
 
